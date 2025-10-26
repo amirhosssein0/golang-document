@@ -42,6 +42,6 @@ func change(val *int) {
 }
 
 // Returning pointer from a function
-func change2(val *int) *int {
-	return val
-}
+// func change2(val *int) *int {
+// 	return val
+// }
